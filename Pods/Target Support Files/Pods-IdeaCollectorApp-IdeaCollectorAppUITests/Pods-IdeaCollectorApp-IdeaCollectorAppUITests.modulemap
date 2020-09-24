@@ -1,0 +1,6 @@
+framework module Pods_IdeaCollectorApp_IdeaCollectorAppUITests {
+  umbrella header "Pods-IdeaCollectorApp-IdeaCollectorAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
